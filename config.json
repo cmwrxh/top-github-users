@@ -1,5 +1,11 @@
 {
-  "countries": [
-    "kenya"
+  "devMode": "false",
+  "locations": [
+    {
+      "country": "kenya",
+      "geoName": "Kenya",
+      "cities": ["nairobi", "mombasa", "kisumu", "nakuru", "eldoret"],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
+    }
   ]
 }
