@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" alt="Kenya">
 </a>
 
-The `number of followers` of users in Kenya on `2026/2/22 2:36 PM UTC`. This list contains users from `Kenya` and cities `Nairobi` `Mombasa` `Kisumu` `Nakuru` `Eldoret`.
+The `number of followers` of users in Kenya on `2026/2/22 3:37 PM UTC`. This list contains users from `Kenya` and cities `Nairobi` `Mombasa` `Kisumu` `Nakuru` `Eldoret`.
 
 There are `1 countries` and `5 cities` can be found [here](https://github.com/cmwrxh/top-github-users).
 
@@ -115,7 +115,7 @@ There are `980 users`  in Kenya. You need at least `74 followers` to be on this 
 		<td>Uni Airfibre Networks </td>
 		<td>No Twitter Username</td>
 		<td>Nairobi, Kenya</td>
-		<td>35280</td>
+		<td>35282</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -6750,6 +6750,19 @@ There are `980 users`  in Kenya. You need at least `74 followers` to be on this 
 	<tr>
 		<td>512</td>
 		<td>
+			<a href="https://github.com/clencyc">
+				<img src="https://avatars.githubusercontent.com/u/124239727?s=72&u=147dc967502192b134cd7e054ac330593d3bee6e&v=4" width="24" alt="Avatar of clencyc"> clencyc
+			</a><br/>
+			Clency Christine
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/christine_12_me">christine_12_me</a></td>
+		<td>Nairobi, Kenya</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
 			<a href="https://github.com/Graycemuthui">
 				<img src="https://avatars.githubusercontent.com/u/95374858?s=72&u=e8bf9715a44e8b7775b6e7c5a25e315a6bf869f1&v=4" width="24" alt="Avatar of Graycemuthui"> Graycemuthui
 			</a><br/>
@@ -6761,7 +6774,7 @@ There are `980 users`  in Kenya. You need at least `74 followers` to be on this 
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/97joseph">
 				<img src="https://avatars.githubusercontent.com/u/33089347?s=72&u=569cda0bd3d61c0ff631e1d6c7f1681ee177b890&v=4" width="24" alt="Avatar of 97joseph"> 97joseph
@@ -6774,7 +6787,7 @@ There are `980 users`  in Kenya. You need at least `74 followers` to be on this 
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/theeBajber">
 				<img src="https://avatars.githubusercontent.com/u/142582844?s=72&u=54c39e74a1650dfea3dd2e37423815b09744d8a2&v=4" width="24" alt="Avatar of theeBajber"> theeBajber
@@ -6787,7 +6800,7 @@ There are `980 users`  in Kenya. You need at least `74 followers` to be on this 
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/waiyaki">
 				<img src="https://avatars.githubusercontent.com/u/17286899?s=72&u=31933359b31681d50948fba69de1e001a07fbaa4&v=4" width="24" alt="Avatar of waiyaki"> waiyaki
@@ -6800,7 +6813,7 @@ There are `980 users`  in Kenya. You need at least `74 followers` to be on this 
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/Felexonyango">
 				<img src="https://avatars.githubusercontent.com/u/58067903?s=72&u=8be569f3660bca75cb693c6888816a7bb065ba6b&v=4" width="24" alt="Avatar of Felexonyango"> Felexonyango
@@ -6810,19 +6823,6 @@ There are `980 users`  in Kenya. You need at least `74 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/felexonyango02">felexonyango02</a></td>
 		<td>KENYA</td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>517</td>
-		<td>
-			<a href="https://github.com/clencyc">
-				<img src="https://avatars.githubusercontent.com/u/124239727?s=72&u=147dc967502192b134cd7e054ac330593d3bee6e&v=4" width="24" alt="Avatar of clencyc"> clencyc
-			</a><br/>
-			Clency Christine
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/christine_12_me">christine_12_me</a></td>
-		<td>Nairobi, Kenya</td>
 		<td>113</td>
 	</tr>
 	<tr>
