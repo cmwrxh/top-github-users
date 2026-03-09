@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" alt="Kenya">
 </a>
 
-The `public contributions` by users in Kenya on `2026/3/9 10:41 PM UTC`. This list contains users from `Kenya` and cities `Nairobi` `Mombasa` `Kisumu` `Nakuru` `Eldoret`.
+The `public contributions` by users in Kenya on `2026/3/9 11:39 PM UTC`. This list contains users from `Kenya` and cities `Nairobi` `Mombasa` `Kisumu` `Nakuru` `Eldoret`.
 
 There are `1 countries` and `5 cities` can be found [here](https://github.com/cmwrxh/top-github-users).
 
@@ -115,7 +115,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kenya</td>
-		<td>71470</td>
+		<td>71476</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi</td>
-		<td>62060</td>
+		<td>62123</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>@weknow-io @gadgetsmagke @weknow-finance @amdefiguy<br/></td>
 		<td><a href="https://twitter.com/mikeyhodl">mikeyhodl</a></td>
 		<td>Kenya</td>
-		<td>21777</td>
+		<td>21781</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi</td>
-		<td>12579</td>
+		<td>12590</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,10 +180,23 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi, Kenya</td>
-		<td>11830</td>
+		<td>11868</td>
 	</tr>
 	<tr>
 		<td>7</td>
+		<td>
+			<a href="https://github.com/mauricegift">
+				<img src="https://avatars.githubusercontent.com/u/200888291?s=72&u=1a8ffad6276f583c176b40259373934b7dcff4a5&v=4" width="24" alt="Avatar of mauricegift"> mauricegift
+			</a><br/>
+			Maurice Gift
+		</td>
+		<td>@giftedtech-nexus </td>
+		<td>No Twitter Username</td>
+		<td>Eldoret, Kenya</td>
+		<td>9082</td>
+	</tr>
+	<tr>
+		<td>8</td>
 		<td>
 			<a href="https://github.com/xhclintohn">
 				<img src="https://avatars.githubusercontent.com/u/152104512?s=72&u=4a7840830e2319f7d51e5e414716128fc2a52f32&v=4" width="24" alt="Avatar of xhclintohn"> xhclintohn
@@ -196,19 +209,6 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>9076</td>
 	</tr>
 	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/mauricegift">
-				<img src="https://avatars.githubusercontent.com/u/200888291?s=72&u=1a8ffad6276f583c176b40259373934b7dcff4a5&v=4" width="24" alt="Avatar of mauricegift"> mauricegift
-			</a><br/>
-			Maurice Gift
-		</td>
-		<td>@giftedtech-nexus </td>
-		<td>No Twitter Username</td>
-		<td>Eldoret, Kenya</td>
-		<td>9072</td>
-	</tr>
-	<tr>
 		<td>9</td>
 		<td>
 			<a href="https://github.com/fbiego">
@@ -219,7 +219,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Lvgl Kft @lvgl </td>
 		<td><a href="https://twitter.com/fbiego_">fbiego_</a></td>
 		<td>Kenya</td>
-		<td>8787</td>
+		<td>8788</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -336,7 +336,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Https://rubycommunit </td>
 		<td><a href="https://twitter.com/Bantab">Bantab</a></td>
 		<td>Nairobi</td>
-		<td>3413</td>
+		<td>3414</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -544,7 +544,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>@silva-world  </td>
 		<td><a href="https://twitter.com/silva_african">silva_african</a></td>
 		<td>Kenya</td>
-		<td>1662</td>
+		<td>1663</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1415,7 +1415,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi</td>
-		<td>673</td>
+		<td>676</td>
 	</tr>
 	<tr>
 		<td>102</td>
