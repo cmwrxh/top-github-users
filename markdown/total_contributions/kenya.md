@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" alt="Kenya">
 </a>
 
-The `public contributions` and `private contributions` by users in Kenya on `2026/3/13 7:42 PM UTC`. This list contains users from `Kenya` and cities `Nairobi` `Mombasa` `Kisumu` `Nakuru` `Eldoret`.
+The `public contributions` and `private contributions` by users in Kenya on `2026/3/13 8:47 PM UTC`. This list contains users from `Kenya` and cities `Nairobi` `Mombasa` `Kisumu` `Nakuru` `Eldoret`.
 
 There are `1 countries` and `5 cities` can be found [here](https://github.com/cmwrxh/top-github-users).
 
@@ -130,8 +130,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi</td>
-		<td>65769</td>
-		<td>88479</td>
+		<td>65836</td>
+		<td>88546</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kenya</td>
-		<td>71810</td>
-		<td>71810</td>
+		<td>71816</td>
+		<td>71816</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>@weknow-io @gadgetsmagke @weknow-finance @amdefiguy<br/></td>
 		<td><a href="https://twitter.com/mikeyhodl">mikeyhodl</a></td>
 		<td>Kenya</td>
-		<td>21953</td>
-		<td>23158</td>
+		<td>21955</td>
+		<td>23161</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -228,8 +228,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi, Kenya</td>
-		<td>14480</td>
-		<td>14480</td>
+		<td>14529</td>
+		<td>14529</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -242,8 +242,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi</td>
-		<td>13223</td>
-		<td>13223</td>
+		<td>13235</td>
+		<td>13235</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -270,8 +270,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Toxic_tech </td>
 		<td>No Twitter Username</td>
 		<td>Kenya</td>
-		<td>9258</td>
-		<td>10684</td>
+		<td>9259</td>
+		<td>10686</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -284,8 +284,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Lvgl Kft @lvgl </td>
 		<td><a href="https://twitter.com/fbiego_">fbiego_</a></td>
 		<td>Kenya</td>
-		<td>8872</td>
-		<td>9530</td>
+		<td>8874</td>
+		<td>9532</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -341,7 +341,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td><a href="https://twitter.com/barakamulumia">barakamulumia</a></td>
 		<td>Kenya</td>
 		<td>68</td>
-		<td>7735</td>
+		<td>7747</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -467,7 +467,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td><a href="https://twitter.com/dkobia">dkobia</a></td>
 		<td>Atlanta, GA | Nairobi, Kenya</td>
 		<td>5</td>
-		<td>4800</td>
+		<td>4801</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -607,7 +607,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td><a href="https://twitter.com/enenumxela">enenumxela</a></td>
 		<td>Nairobi, Kenya</td>
 		<td>768</td>
-		<td>3841</td>
+		<td>3844</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -732,8 +732,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Https://rubycommunit </td>
 		<td><a href="https://twitter.com/Bantab">Bantab</a></td>
 		<td>Nairobi</td>
-		<td>3486</td>
-		<td>3488</td>
+		<td>3487</td>
+		<td>3489</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -1265,7 +1265,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td><a href="https://twitter.com/kaylor254">kaylor254</a></td>
 		<td>Nairobi, Kenya</td>
 		<td>18</td>
-		<td>2577</td>
+		<td>2578</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1279,7 +1279,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td><a href="https://twitter.com/alidantech">alidantech</a></td>
 		<td>Nairobi</td>
 		<td>59</td>
-		<td>2569</td>
+		<td>2570</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1671,10 +1671,24 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Nairobi, Kenya</td>
 		<td>1282</td>
-		<td>2117</td>
+		<td>2119</td>
 	</tr>
 	<tr>
 		<td>113</td>
+		<td>
+			<a href="https://github.com/HilaryOkello">
+				<img src="https://avatars.githubusercontent.com/u/71628910?s=72&u=07eb36f79966c2f676ae8ab232583dccf1e9ac11&v=4" width="24" alt="Avatar of HilaryOkello"> HilaryOkello
+			</a><br/>
+			Hilary Okello
+		</td>
+		<td>Zone 01 Kisumu </td>
+		<td><a href="https://twitter.com/HilaryOnyango">HilaryOnyango</a></td>
+		<td>Kisumu</td>
+		<td>555</td>
+		<td>2110</td>
+	</tr>
+	<tr>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/james-muriithi">
 				<img src="https://avatars.githubusercontent.com/u/26818458?s=72&u=f4b8fdbd1768557351353df3a6fdeb3d8c39b9ff&v=4" width="24" alt="Avatar of james-muriithi"> james-muriithi
@@ -1688,7 +1702,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>2108</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/LewisMagangi">
 				<img src="https://avatars.githubusercontent.com/u/93725160?s=72&u=1e9c865f4f1a1045422300efb495f73a380c80b6&v=4" width="24" alt="Avatar of LewisMagangi"> LewisMagangi
@@ -1700,20 +1714,6 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Kenya </td>
 		<td>1669</td>
 		<td>2103</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/HilaryOkello">
-				<img src="https://avatars.githubusercontent.com/u/71628910?s=72&u=07eb36f79966c2f676ae8ab232583dccf1e9ac11&v=4" width="24" alt="Avatar of HilaryOkello"> HilaryOkello
-			</a><br/>
-			Hilary Okello
-		</td>
-		<td>Zone 01 Kisumu </td>
-		<td><a href="https://twitter.com/HilaryOnyango">HilaryOnyango</a></td>
-		<td>Kisumu</td>
-		<td>555</td>
-		<td>2101</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -1755,7 +1755,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td><a href="https://twitter.com/melbite1">melbite1</a></td>
 		<td>Nairobi - remote</td>
 		<td>522</td>
-		<td>2048</td>
+		<td>2057</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -2012,6 +2012,20 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 	<tr>
 		<td>137</td>
 		<td>
+			<a href="https://github.com/NOBERT167">
+				<img src="https://avatars.githubusercontent.com/u/52571238?s=72&u=66d8dd69ca153af0d2411814c1c4f85ab7659229&v=4" width="24" alt="Avatar of NOBERT167"> NOBERT167
+			</a><br/>
+			Nobert Langat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/darkcode1999">darkcode1999</a></td>
+		<td>Nairobi, Kenya </td>
+		<td>82</td>
+		<td>1878</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
 			<a href="https://github.com/andrueastman">
 				<img src="https://avatars.githubusercontent.com/u/6464005?s=72&u=3bf69774d9899535117f1bbebf1557be703fde1a&v=4" width="24" alt="Avatar of andrueastman"> andrueastman
 			</a><br/>
@@ -2024,7 +2038,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>1877</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/preston-56">
 				<img src="https://avatars.githubusercontent.com/u/91598956?s=72&u=e80534672dcb190131debbd9b92660ca2964d06d&v=4" width="24" alt="Avatar of preston-56"> preston-56
@@ -2036,20 +2050,6 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Kenya</td>
 		<td>1061</td>
 		<td>1876</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
-			<a href="https://github.com/NOBERT167">
-				<img src="https://avatars.githubusercontent.com/u/52571238?s=72&u=66d8dd69ca153af0d2411814c1c4f85ab7659229&v=4" width="24" alt="Avatar of NOBERT167"> NOBERT167
-			</a><br/>
-			Nobert Langat
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/darkcode1999">darkcode1999</a></td>
-		<td>Nairobi, Kenya </td>
-		<td>79</td>
-		<td>1875</td>
 	</tr>
 	<tr>
 		<td>140</td>
@@ -2244,8 +2244,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Equity Group Holdings Plc<br/></td>
 		<td><a href="https://twitter.com/odenyire">odenyire</a></td>
 		<td>Nairobi</td>
-		<td>1766</td>
-		<td>1768</td>
+		<td>1767</td>
+		<td>1769</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2287,7 +2287,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td><a href="https://twitter.com/achinga_chris">achinga_chris</a></td>
 		<td>Kenya</td>
 		<td>436</td>
-		<td>1756</td>
+		<td>1757</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2357,7 +2357,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Africa, Benin, Rwanda, Ghana, Kenya, China</td>
 		<td>1</td>
-		<td>1728</td>
+		<td>1729</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -2483,7 +2483,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td><a href="https://twitter.com/ndekocode">ndekocode</a></td>
 		<td>Kinshasa, Kigali, Nairobi, Dubai</td>
 		<td>707</td>
-		<td>1604</td>
+		<td>1607</td>
 	</tr>
 	<tr>
 		<td>171</td>
@@ -2502,6 +2502,20 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 	<tr>
 		<td>172</td>
 		<td>
+			<a href="https://github.com/okwareddevnest">
+				<img src="https://avatars.githubusercontent.com/u/108905313?s=72&u=7148df0e54f0d0f51c391d301e660d30472bc860&v=4" width="24" alt="Avatar of okwareddevnest"> okwareddevnest
+			</a><br/>
+			Okware
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kenya</td>
+		<td>707</td>
+		<td>1588</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
 			<a href="https://github.com/JacksCodeVault">
 				<img src="https://avatars.githubusercontent.com/u/129906717?s=72&u=276e27f1bba65ac14513ce7f47a86a5ed3a11440&v=4" width="24" alt="Avatar of JacksCodeVault"> JacksCodeVault
 			</a><br/>
@@ -2512,20 +2526,6 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Nakuru</td>
 		<td>39</td>
 		<td>1585</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/okwareddevnest">
-				<img src="https://avatars.githubusercontent.com/u/108905313?s=72&u=7148df0e54f0d0f51c391d301e660d30472bc860&v=4" width="24" alt="Avatar of okwareddevnest"> okwareddevnest
-			</a><br/>
-			Okware
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kenya</td>
-		<td>707</td>
-		<td>1579</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -3588,8 +3588,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dev_williee">dev_williee</a></td>
 		<td>Kenya</td>
-		<td>166</td>
-		<td>1066</td>
+		<td>167</td>
+		<td>1067</td>
 	</tr>
 	<tr>
 		<td>250</td>
@@ -3650,6 +3650,20 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 	<tr>
 		<td>254</td>
 		<td>
+			<a href="https://github.com/G-Mervo">
+				<img src="https://avatars.githubusercontent.com/u/25388746?s=72&u=d51bb80189639b78666caca594267caf1f3efffc&v=4" width="24" alt="Avatar of G-Mervo"> G-Mervo
+			</a><br/>
+			Mervin Gaitho
+		</td>
+		<td>Alphawonders </td>
+		<td>No Twitter Username</td>
+		<td>Nairobi</td>
+		<td>170</td>
+		<td>1047</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
 			<a href="https://github.com/waltertaya">
 				<img src="https://avatars.githubusercontent.com/u/126944679?s=72&u=ebabfbe3e06814aab15a7ca26a8150051b4256f7&v=4" width="24" alt="Avatar of waltertaya"> waltertaya
 			</a><br/>
@@ -3660,20 +3674,6 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>NAIROBI, KENYA</td>
 		<td>966</td>
 		<td>1046</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/G-Mervo">
-				<img src="https://avatars.githubusercontent.com/u/25388746?s=72&u=d51bb80189639b78666caca594267caf1f3efffc&v=4" width="24" alt="Avatar of G-Mervo"> G-Mervo
-			</a><br/>
-			Mervin Gaitho
-		</td>
-		<td>Alphawonders </td>
-		<td>No Twitter Username</td>
-		<td>Nairobi</td>
-		<td>170</td>
-		<td>1043</td>
 	</tr>
 	<tr>
 		<td>256</td>
@@ -4560,6 +4560,20 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 	<tr>
 		<td>319</td>
 		<td>
+			<a href="https://github.com/FelixWaweru">
+				<img src="https://avatars.githubusercontent.com/u/18608672?s=72&u=4e4e8ef3412a9b37567e41a6edf8b9e579d10ca3&v=4" width="24" alt="Avatar of FelixWaweru"> FelixWaweru
+			</a><br/>
+			Felix Waweru
+		</td>
+		<td>Codefundi </td>
+		<td>No Twitter Username</td>
+		<td>Nairobi</td>
+		<td>70</td>
+		<td>803</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
 			<a href="https://github.com/Jaweki">
 				<img src="https://avatars.githubusercontent.com/u/97351534?s=72&u=f58f2cc16d11201edaee4ed04fc6a5e423c55aab&v=4" width="24" alt="Avatar of Jaweki"> Jaweki
 			</a><br/>
@@ -4570,20 +4584,6 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Nyeri, Kenya</td>
 		<td>7</td>
 		<td>802</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/FelixWaweru">
-				<img src="https://avatars.githubusercontent.com/u/18608672?s=72&u=4e4e8ef3412a9b37567e41a6edf8b9e579d10ca3&v=4" width="24" alt="Avatar of FelixWaweru"> FelixWaweru
-			</a><br/>
-			Felix Waweru
-		</td>
-		<td>Codefundi </td>
-		<td>No Twitter Username</td>
-		<td>Nairobi</td>
-		<td>41</td>
-		<td>798</td>
 	</tr>
 	<tr>
 		<td>321</td>
@@ -4680,8 +4680,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nairobi</td>
-		<td>23</td>
-		<td>778</td>
+		<td>24</td>
+		<td>779</td>
 	</tr>
 	<tr>
 		<td>328</td>
@@ -5428,6 +5428,20 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 	<tr>
 		<td>381</td>
 		<td>
+			<a href="https://github.com/waracci">
+				<img src="https://avatars.githubusercontent.com/u/6994982?s=72&u=26bf758cdcc3d8aab6d5b330ab3acbf13589b3ac&v=4" width="24" alt="Avatar of waracci"> waracci
+			</a><br/>
+			Morris Warachi
+		</td>
+		<td>Digifarmio </td>
+		<td>No Twitter Username</td>
+		<td>Westlands, Nairobi</td>
+		<td>15</td>
+		<td>628</td>
+	</tr>
+	<tr>
+		<td>382</td>
+		<td>
 			<a href="https://github.com/hummzer">
 				<img src="https://avatars.githubusercontent.com/u/135834701?s=72&u=8711410f102f22bee61ffed1c23ce4a38231de63&v=4" width="24" alt="Avatar of hummzer"> hummzer
 			</a><br/>
@@ -5440,7 +5454,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>625</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/peterrobert">
 				<img src="https://avatars.githubusercontent.com/u/32361963?s=72&u=9873e1f6a58a7b0a9e9b20d3cf0cb09e7d8f61e3&v=4" width="24" alt="Avatar of peterrobert"> peterrobert
@@ -5452,20 +5466,6 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Nairobi kenya</td>
 		<td>445</td>
 		<td>624</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
-			<a href="https://github.com/waracci">
-				<img src="https://avatars.githubusercontent.com/u/6994982?s=72&u=26bf758cdcc3d8aab6d5b330ab3acbf13589b3ac&v=4" width="24" alt="Avatar of waracci"> waracci
-			</a><br/>
-			Morris Warachi
-		</td>
-		<td>Digifarmio </td>
-		<td>No Twitter Username</td>
-		<td>Westlands, Nairobi</td>
-		<td>15</td>
-		<td>623</td>
 	</tr>
 	<tr>
 		<td>384</td>
@@ -6030,6 +6030,20 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 	<tr>
 		<td>424</td>
 		<td>
+			<a href="https://github.com/CossyCossy">
+				<img src="https://avatars.githubusercontent.com/u/38537135?s=72&u=cc3b3b6b289e3a27a2d6eb71e0ab37804d890803&v=4" width="24" alt="Avatar of CossyCossy"> CossyCossy
+			</a><br/>
+			Cosmas Mbuvi
+		</td>
+		<td>@crunch-garage  </td>
+		<td><a href="https://twitter.com/cossymbuvi">cossymbuvi</a></td>
+		<td>Mombasa, Kenya</td>
+		<td>32</td>
+		<td>521</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
 			<a href="https://github.com/Albert-Byrone">
 				<img src="https://avatars.githubusercontent.com/u/30287402?s=72&u=480d2cee3ff6ce3dcbe281b501204630db3fb339&v=4" width="24" alt="Avatar of Albert-Byrone"> Albert-Byrone
 			</a><br/>
@@ -6042,7 +6056,7 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>520</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/Mburu-Elvis">
 				<img src="https://avatars.githubusercontent.com/u/109366128?s=72&u=1c7edb26f88215b2345bc4849ffd78583910202a&v=4" width="24" alt="Avatar of Mburu-Elvis"> Mburu-Elvis
@@ -6054,20 +6068,6 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>Nairobi</td>
 		<td>34</td>
 		<td>520</td>
-	</tr>
-	<tr>
-		<td>426</td>
-		<td>
-			<a href="https://github.com/CossyCossy">
-				<img src="https://avatars.githubusercontent.com/u/38537135?s=72&u=cc3b3b6b289e3a27a2d6eb71e0ab37804d890803&v=4" width="24" alt="Avatar of CossyCossy"> CossyCossy
-			</a><br/>
-			Cosmas Mbuvi
-		</td>
-		<td>@crunch-garage  </td>
-		<td><a href="https://twitter.com/cossymbuvi">cossymbuvi</a></td>
-		<td>Mombasa, Kenya</td>
-		<td>31</td>
-		<td>518</td>
 	</tr>
 	<tr>
 		<td>427</td>
@@ -9986,8 +9986,8 @@ There are `981 users`  in Kenya. You need at least `76 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kenya</td>
-		<td>76</td>
-		<td>76</td>
+		<td>77</td>
+		<td>77</td>
 	</tr>
 	<tr>
 		<td>707</td>
